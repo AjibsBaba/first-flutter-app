@@ -1,6 +1,10 @@
-# first_flutter_app
+# First Flutter App
 
 My First Flutter project.
+
+## Build Status
+[![Flutter Workflow](https://github.com/AjibsBaba/first-flutter-app/actions/workflows/dart.yml/badge.svg)](https://github.com/AjibsBaba/first-flutter-app/actions/workflows/dart.yml)
+
 
 ## Getting Started
 
